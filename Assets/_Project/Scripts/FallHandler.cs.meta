@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e1d22fc567084b0458227b89ea7429a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - respawnSound: {fileID: 8300000, guid: 0b1c29f476c5b2a4a9c5f6bd74aac6fc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

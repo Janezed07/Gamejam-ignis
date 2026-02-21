@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 19e7d7a1aed40c447944efa57821ba59
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - victorySound: {fileID: 8300000, guid: c466ed26e81f99d4293642d3f446869a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
