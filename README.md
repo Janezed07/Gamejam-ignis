@@ -44,7 +44,6 @@ Space: Jump
 
 Esc: Pause & Settings Menu
 
-The Team
-Developer: Srinjoy Das
+Team members :  Srinjoy Das, Shashwat Lohani , Divya Raj and Amitayush .
 
 Event: Enyugma '26, IIIT Bhagalpur
