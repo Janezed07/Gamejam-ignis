@@ -1,4 +1,4 @@
-#IGNIS ### A Low-Poly Survival Platformer for Enyugma '26
+# IGNIS ### A Low-Poly Survival Platformer for Enyugma '26
 IGNIS is a high-stakes, low-poly 3D platformer where heat is your greatest enemy and your only currency for survival. As a lone robot traversing a crumbling frozen monolith, you must manage your internal thermal levels to prevent a total system meltdown.
 
 Theme: "The Heat is On"
